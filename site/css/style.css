@@ -1,0 +1,22 @@
+p{
+  margin: 15px;
+  font-size: 15;
+}
+
+#header-nav{
+  background-color: #647382;
+  width: auto;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.container{
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+
+h1{
+  margin-left: 0 ;
+  color: white;
+}
